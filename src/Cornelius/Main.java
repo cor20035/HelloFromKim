@@ -4,8 +4,9 @@ public class Main {
 
     public static void main(String[] args) {
 	System.out.println ("Hello From Kim!");
-	System.out.println("Hello Kim, this is Daniell.");
 
+    System.out.println ("Hello Kim, this is Erik!");
+	  System.out.println("Hello Kim, this is Daniell.");
 
     }
 }
